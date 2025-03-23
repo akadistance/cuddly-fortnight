@@ -6,7 +6,7 @@ import yfinance as yf
 from datetime import datetime
 
 # Directory to store stock data
-DATA_DIR = "/Users/jjiwan/Documents/Python/Projects/Stock Data Cleaning & Normalization"
+DATA_DIR = "/Users/username/Downloads"
 FILE_PATH = os.path.join(DATA_DIR, "stock_data.csv")
 
 # Top 10 Companies (Adjust as needed)
